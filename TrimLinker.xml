@@ -1,0 +1,7 @@
+﻿<linker>
+  <assembly fullname="$safeprojectname$">
+    <type fullname="Program">
+      <method name="Main" />
+    </type>
+  </assembly>
+</linker>
